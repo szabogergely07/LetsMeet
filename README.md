@@ -1,10 +1,4 @@
-test for pull request or something like that
-by kad108
 
-- - - - - - - - - - - - - - - - - - - - - - -
-
-test2 for pull request or something like that
-by alexandre-f-ouellette
 
 # README
 
