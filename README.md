@@ -1,10 +1,3 @@
-test for pull request or something like that
-by kad108
-
-that is my test for pull request, you can comment it please /by Greg
-
-- - - - - - - - - - - - - - - - - - - - - - -
-
 
 
 # README
